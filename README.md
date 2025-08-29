@@ -29,7 +29,7 @@ This project implements a **Machine Learning model** to automate and predict the
 | File          | Description                                      |
 |---------------|--------------------------------------------------|
 | main.ipynb    | Main Colab notebook with data processing, EDA, model training, and results |
-| README.md     | This file—Project overview, instructions, and credits |
+| README.md     | This file—Project overview, instructions |
 
 ## How to Run
 
